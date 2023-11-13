@@ -11,3 +11,7 @@ const myBooks = ["The Catcher in the Rye",
     "The Da Vinci Code",
     "The Hunger Games"]
 
+console.log("Jeg er en almindelig konsol log")
+console.log("Jeg er en konsol info: en variabel")
+console.warn("jeg er en advarsel!")
+console.error("jeg er en fejl!!!")
